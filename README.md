@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 [![committers.top badge](https://user-badge.committers.top/chile/ClaudiaRojasSoto.svg)](https://user-badge.committers.top/chile/xinxingwu-uk)
 
