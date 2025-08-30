@@ -10,10 +10,10 @@ Here is my Homepage https://xinxingwu.github.io/
 
 ## 📊 Wu's GitHub
 
-|Stats|Languages|
+|Stats <img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> |Languages|
 |--------------|------------|
 |![](https://github-readme-stats.vercel.app/api?username=xinxingwu-uk&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxingwu-uk&layout=compact&langs_count=8&theme=dark)|
 
 <hr>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /></p>
+<p align="center"></p>
