@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Wu.
 
-Here is my Homepage https://xinxingwu.github.io/
+I build models that solve problems and (usually) behave. My work spans ML, stats, and data analysis—feature selection to graph neural nets and survival analysis—with a recent soft spot for LLMs. If it’s a tough dataset, I make it talk; if it’s a complex idea, I make it teachable. Here is my Homepage https://xinxingwu.github.io/
 
 ## 📊 Wu's GitHub
 
