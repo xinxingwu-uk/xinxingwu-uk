@@ -7,7 +7,7 @@
 Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science courses, from intro programming to advanced AI, across the U.S. and internationally. 
 
 Here is my Homepage https://xinxingwu.github.io</td>
-    <td><a href='https://clustrmaps.com/site/1c7st'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs&co=2a8acd'/></a></td>
+    <td><a href="https://info.flagcounter.com/vP3X"><img src="https://s01.flagcounter.com/countxl/vP3X/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></td>
   </tr>
 </table>
 
