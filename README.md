@@ -1,5 +1,7 @@
 ## 👋 Hi, I am Wu.
 
+|Stats |Languages|
+|--------------|------------|
 |![](I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs, usually in Python and sometimes in R.
 
 Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science courses, from intro programming to advanced AI, across the U.S. and internationally. 
