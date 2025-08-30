@@ -1,12 +1,23 @@
 ## 👋 Hi, I am Wu.
 
-|Stats |Languages|
-|--------------|------------|
-|![](I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs, usually in Python and sometimes in R.
+I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs, usually in Python and sometimes in R.
 
 Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science courses, from intro programming to advanced AI, across the U.S. and internationally. 
 
-Here is my Homepage https://xinxingwu.github.io/)|![](<a href='https://clustrmaps.com/site/1c7st'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs&co=2a8acd'/></a>)|
+Here is my Homepage https://xinxingwu.github.io
+
+<table>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+  </tr>
+  <tr>
+    <td>Cell 4</td>
+    <td>Cell 5</td>
+    <td>Cell 6</td>
+  </tr>
+</table>
 
 <img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" />
 
