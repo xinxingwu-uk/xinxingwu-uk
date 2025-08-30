@@ -1,9 +1,9 @@
 ## 👋 Hi, I am Wu.
 
-<table border="1" width="100%">
+<table width="100%">
   <colgroup>
-    <col style="width: 70%">
-    <col style="width: 30%">
+    <col style="width: 60%">
+    <col style="width: 40%">
   </colgroup>
   <tr>
     <td>I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs, usually in Python and sometimes in R.
