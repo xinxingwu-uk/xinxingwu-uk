@@ -1,6 +1,10 @@
 ## 👋 Hi, I am Wu.
 
-I build models that solve problems and (usually) behave. My work spans ML, stats, and data analysis—feature selection to graph neural nets and survival analysis—with a recent soft spot for LLMs. If it’s a tough dataset, I make it talk; if it’s a complex idea, I make it teachable. Here is my Homepage https://xinxingwu.github.io/
+I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs. Tough datasets, I make them talk; complex ideas, I make them teachable.
+
+Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science courses, from intro programming to advanced AI, across the U.S. and internationally. 
+
+Here is my Homepage https://xinxingwu.github.io/
 
 ## 📊 Wu's GitHub
 
