@@ -10,10 +10,11 @@ Here is my Homepage https://xinxingwu.github.io
 
 <a href="https://clustrmaps.com/site/1c7st" title="Visitor Map">
   <img
-    src="https://www.clustrmaps.com/map_v2.png?d=YOUR_D_TOKEN&cl=ffffff&w=500&t=n"
+    src="https://www.clustrmaps.com/map_v2.png?d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRD&cl=ffffff&w=500&t=n"
     alt="Visitor Map"
   />
 </a>
+
 
 
 ## 📊 Wu's GitHub
