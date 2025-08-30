@@ -6,7 +6,8 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 
 Here is my Homepage https://xinxingwu.github.io/
 
-<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Time-UTC%2B0%2012%3A34-blue?style=for-the-badge&logo=clock" alt="Time" /> <img src="https://img.shields.io/badge/Weather-Sunny%2025°C-yellow?style=for-the-badge&logo=weather" alt="Weather" />  <img src="https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge&logo=hashnode" alt="Hashnode" /> <img src="https://img.shields.io/badge/Medium-Read%20Articles-green?style=for-the-badge&logo=medium" alt="Medium" />  <a href="https://clustrmaps.com/site/your-site">
+<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Time-UTC%2B0%2012%3A34-blue?style=for-the-badge&logo=clock" alt="Time" /> <img src="https://img.shields.io/badge/Weather-Sunny%2025°C-yellow?style=for-the-badge&logo=weather" alt="Weather" />  <img src="https://random.dog/woof.json" alt="Dog" />
+
   <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=yourID" alt="Visitor Map" />
 </a>
 
