@@ -1,4 +1,6 @@
-## 👋 Hi, I am Wu. Here is my Homepage https://xinxingwu.github.io/
+## 👋 Hi, I am Wu.
+
+Here is my Homepage https://xinxingwu.github.io/
 
 ## 📊 Wu's GitHub
 
