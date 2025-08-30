@@ -1,5 +1,20 @@
 ## 👋 Hi, I am Wu.
 
+<table border="1" width="100%">
+  <tr>
+    <td style="width:30%">Cell 1</td>
+    <td style="width:40%">Cell 2</td>
+    <td style="width:30%">Cell 3</td>
+  </tr>
+  <tr>
+    <td>Cell 4</td>
+    <td>Cell 5</td>
+    <td>Cell 6</td>
+  </tr>
+</table>
+
+
+
 <table width="100%">
   <tr>
     <td style="width:60%">I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs, usually in Python and sometimes in R.
