@@ -2,9 +2,9 @@
 
 <table border="1" width="100%">
   <tr>
-    <td style="width:30%">Cell 1</td>
-    <td style="width:40%">Cell 2</td>
-    <td style="width:30%">Cell 3</td>
+    <td style="width:10%">Cell 1</td>
+    <td style="width:80%">Cell 2</td>
+    <td style="width:10%">Cell 3</td>
   </tr>
   <tr>
     <td>Cell 4</td>
