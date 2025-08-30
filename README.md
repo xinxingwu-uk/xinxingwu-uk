@@ -6,7 +6,7 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 
 Here is my Homepage https://xinxingwu.github.io/
 
-<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Time-UTC%2B0%2012%3A34-blue?style=for-the-badge&logo=clock" alt="Time" /> <img src="https://img.shields.io/badge/Weather-Sunny%2025°C-yellow?style=for-the-badge&logo=weather" alt="Weather" /> <img src="https://img.shields.io/badge/Bitcoin-$27000-orange?style=for-the-badge&logo=bitcoin" alt="BTC Price" /> <img src="https://img.shields.io/badge/ORCID-0000-0001-9177-9352-brightgreen?style=for-the-badge&logo=orcid" alt="ORCID" />
+<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Time-UTC%2B0%2012%3A34-blue?style=for-the-badge&logo=clock" alt="Time" /> <img src="https://img.shields.io/badge/Weather-Sunny%2025°C-yellow?style=for-the-badge&logo=weather" alt="Weather" /> <img src="https://img.shields.io/badge/Bitcoin-$27000-orange?style=for-the-badge&logo=bitcoin" alt="BTC Price" /> <img src="https://img.shields.io/badge/ORCID-0000--0001--9177--9352-brightgreen?style=for-the-badge&logo=orcid" alt="ORCID" />
 
 
 
