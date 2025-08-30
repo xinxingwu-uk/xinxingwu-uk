@@ -6,7 +6,8 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 
 Here is my Homepage https://xinxingwu.github.io/
 
-<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinxingwu-uk&theme=tokyonight" alt="Profile Details" />
+<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://github-profile-trophy.vercel.app/?username=xinxingwu-uk&theme=matrix&no-frame=true" alt="Trophies" />
+
 
 
  
@@ -24,6 +25,4 @@ Here is my Homepage https://xinxingwu.github.io/
 |--------------|------------|
 |![](https://github-readme-stats.vercel.app/api?username=xinxingwu-uk&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxingwu-uk&layout=compact&langs_count=8&theme=dark)|
 
-<hr>
-
-<p align="center"></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinxingwu-uk&theme=tokyonight" alt="Profile Details" />
