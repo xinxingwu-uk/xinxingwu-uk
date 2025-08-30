@@ -6,7 +6,8 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 
 Here is my Homepage https://xinxingwu.github.io/
 
-<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Coding%20Time-1200%20hrs-blue?style=for-the-badge&logo=clockify" alt="Coding Time" />
+<img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /> <img src="https://img.shields.io/github/followers/xinxingwu-uk?label=Followers&style=for-the-badge&color=purple" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Coding%20Time-1200%20hrs-blue?style=for-the-badge&logo=clockify" alt="Coding Time" /> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 
 
