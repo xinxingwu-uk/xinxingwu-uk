@@ -6,11 +6,9 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 
 Here is my Homepage https://xinxingwu.github.io/
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" />
-</p>
 
-## 📊 Wu's GitHub
+
+## 📊 Wu's GitHub <p><img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" /></p>
 
 |Stats|Languages|
 |--------------|------------|
