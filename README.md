@@ -14,8 +14,6 @@ Here is my Homepage https://xinxingwu.github.io</td>
 <img src="https://komarev.com/ghpvc/?username=xinxingwu-uk&label=Profile%20views&color=blue&style=for-the-badge" alt="samartho4" />
 
 
-<a href='https://clustrmaps.com/site/1c7su'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=BfBP-kxEyfUNjAsr1ExzH_4KnERxyYBVpq3TEncavfI'/></a>
-
 ## 📊 Wu's GitHub
 
 |Stats |Languages|
