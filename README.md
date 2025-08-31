@@ -9,7 +9,7 @@ Grounded in computer science, statistics, and mathematics, I’m both a research
 <br>
 <br> 
 Here is my Homepage https://xinxingwu.github.io</td>
-    <td><a href="https://clustrmaps.com/site/1c7st"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs&cl=ffffff" width="850" height="750" /></a> 
+    <td><a href="https://clustrmaps.com/site/1c7st"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=Y3B6bfp__aiQSn4I4JkSipFUqc4h9sK5DYEEz5GRDgs&cl=ffffff" width="850" height="780" /></a> 
 </td>
   </tr>
 </table>
