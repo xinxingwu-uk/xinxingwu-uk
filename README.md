@@ -2,7 +2,7 @@
 
 I build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs.
   
-Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science courses, from intro programming to advanced AI, across the U.S. and internationally. 
+Grounded in computer science, statistics, and mathematics, I’m both a researcher and an educator. I’ve taught a wide range of computer science and MBA courses, from intro programming to advanced AI, across the U.S. and internationally. 
 
 Here is my Homepage https://xinxingwu.github.io</td>
 
