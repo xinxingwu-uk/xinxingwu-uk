@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Two-Language Chat Illusion</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background: linear-gradient(180deg, #eef7ff 0%, #ffffff 40%);
+    }
+    .controls {
+      margin-top: 20px;
+      background: #f3f4f6;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .stage {
+      position: relative;
+      width: 900px;
+      max-width: 95vw;
+      height: 500px;
+      margin-top: 20px;
+      background: #fff;
+      border-radius: 15px;
+      border: 1px solid #ddd;
+      overflow: visible;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .person {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: radial-gradient(circle at 30% 30%, #fef3c7, #fcd34d);
+      border: 4px solid #fff;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: bold;
+      font-size: 28px;
+    }
+    .center { top: 10%; left: 50%; transform: translateX(-50%); }
+    .left { bottom: 10%; left: 10%; }
+    .right { bottom: 10%; right: 10%; }
+
+    .bubble {
+      margin-top: 10px;
+      background: #fff;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid #ddd;
+      max-width: 240px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .hidden { opacity: 0; pointer-events: none; }
+    .visible { opacity: 1; transition: opacity 0.3s; }
+  </style>
+</head>
+<body>
+  <h1>Two-Language Chat Illusion</h1>
+  <div class="controls">
+    <label>Switch speed (ms): </label>
+    <input type="range" id="speed" min="0" max="2000" value="900" step="50">
+    <span id="speedValue">900 ms</span>
+    <button id="startBtn">Start</button>
+    <button id="stopBtn">Stop</button>
+    <br><br>
+    <label>English line:</label>
+    <input type="text" id="engText" value="Hey there! How are you?" style="width:250px;">
+    <label>中文台词:</label>
+    <input type="text" id="zhText" value="你好！最近怎么样？" style="width:200px;">
+    <br><br>
+    <label>Threshold (ms):</label>
+    <input type="number" id="threshold" value="260" style="width:80px;">
+  </div>
+
+  <div class="stage">
+    <div class="person center">
+      <div class="avatar">C</div>
+      <div class="bubble">I’m listening…</div>
+    </div>
+    <div class="person left" id="leftPerson">
+      <div class="avatar">L</div>
+      <div class="bubble" id="engBubble">Hey there! How are you?</div>
+    </div>
+    <div class="person right" id="rightPerson">
+      <div class="avatar">R</div>
+      <div class="bubble" id="zhBubble">你好！最近怎么样？</div>
+    </div>
+  </div>
+
+  <script>
+    var leftPerson = document.getElementById('leftPerson');
+    var rightPerson = document.getElementById('rightPerson');
+    var speedSlider = document.getElementById('speed');
+    var speedValue = document.getElementById('speedValue');
+    var startBtn = document.getElementById('startBtn');
+    var stopBtn = document.getElementById('stopBtn');
+    var engText = document.getElementById('engText');
+    var zhText = document.getElementById('zhText');
+    var thresholdInput = document.getElementById('threshold');
+    var engBubble = document.getElementById('engBubble');
+    var zhBubble = document.getElementById('zhBubble');
+
+    var tickId = null;
+    var showLeft = true;
+
+    function setVisibility(el, on) {
+      el.classList.toggle('hidden', !on);
+      el.classList.toggle('visible', on);
+    }
+
+    function updateText() {
+      engBubble.textContent = engText.value;
+      zhBubble.textContent = zhText.value;
+    }
+
+    function stopSwitching() {
+      if (tickId) {
+        clearInterval(tickId);
+        tickId = null;
+      }
+    }
+
+    function startSwitching() {
+      stopSwitching();
+      updateText();
+      var intervalMs = parseInt(speedSlider.value, 10);
+      var thresholdMs = parseInt(thresholdInput.value, 10);
+
+      if (intervalMs <= thresholdMs) {
+        setVisibility(leftPerson, true);
+        setVisibility(rightPerson, true);
+        return;
+      }
+
+      showLeft = true;
+      setVisibility(leftPerson, true);
+      setVisibility(rightPerson, false);
+
+      tickId = setInterval(function() {
+        if (showLeft) {
+          setVisibility(leftPerson, false);
+          setVisibility(rightPerson, true);
+          showLeft = false;
+        } else {
+          setVisibility(rightPerson, false);
+          setVisibility(leftPerson, true);
+          showLeft = true;
+        }
+      }, intervalMs);
+    }
+
+    speedSlider.addEventListener('input', function() {
+      speedValue.textContent = speedSlider.value + ' ms';
+      startSwitching();
+    });
+
+    startBtn.addEventListener('click', startSwitching);
+    stopBtn.addEventListener('click', stopSwitching);
+    engText.addEventListener('change', updateText);
+    zhText.addEventListener('change', updateText);
+  </script>
+</body>
+</html>
