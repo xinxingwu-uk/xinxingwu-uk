@@ -1,8 +1,8 @@
-## 👋 Hi, I am Wu.
+## 👋 Hi, I am Wu.  Applied Scientist | AI Data Scientist | Machine Learning Engineer
 
-I am a researcher and grounded in computer science, statistics - Build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs.
+I am also a researcher and grounded in computer science, statistics - Build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs.
   
-I am also an educator - Teach a wide range of computer science and MBA courses, from intro programming to advanced AI, at both the undergraduate and graduate levels, across the U.S. and internationally. 
+In addition, I am an educator - Teach a wide range of computer science and MBA courses, from intro programming to advanced AI, at both the undergraduate and graduate levels, across the U.S. and internationally. 
 
 Here is my Homepage https://xinxingwu.github.io</td>
 
