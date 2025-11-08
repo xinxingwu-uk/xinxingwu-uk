@@ -2,7 +2,7 @@
 
 Applied Scientist | AI Data Scientist | Machine Learning Engineer
 
-Grounded in computer science, statistics - Build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural nets and survival analysis—with a recent focus on LLMs.
+Grounded in computer science, statistics - Build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural networks and survival analysis—with a recent focus on LLMs.
   
 Also, I am an educator - Teach a wide range of computer science and MBA courses, from intro programming to advanced AI, at both the undergraduate and graduate levels, across the U.S. and internationally. 
 
