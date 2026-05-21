@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Wu.  
 
-Applied Scientist | AI Data Scientist | Machine Learning Engineer | Educator & Researcher
+Applied Scientist | AI Data Scientist | Machine Learning Engineer | Educator and Researcher
 
 Grounded in computer science, statistics—Build models that solve problems and (usually) behave. My work spans ML, statistics, and data analysis—from feature selection to graph neural networks and survival analysis—with a recent focus on LLMs.
   
