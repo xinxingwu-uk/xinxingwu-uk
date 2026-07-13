@@ -1,6 +1,4 @@
 ## 👋 Hi, I am Wu.  
+Assistant Professor and interdisciplinary AI researcher specializing in reliable, interpretable machine learning, with expertise in survival analysis, graph neural networks, and large language models. A student-centered global educator with over nine years of teaching experience, he has taught more than 30 undergraduate, graduate, and MBA courses since 2023 and mentored approximately 50 students. His research includes first-author publications in NeurIPS, AAAI, IJCAI, IEEE TNNLS, and medical journals focused on Alzheimer’s disease and related dementias.
 
-Assistant Professor and Applied Scientist combining computer science and statistics to build reliable and interpretable machine learning models, with expertise spanning from survival analysis to graph neural networks and LLMs. 
-
-A global educator teaching advanced AI across undergraduate, graduate and MBA programs, passionate about bridging academia and industry through strategic research collaborations.
 
